@@ -12,7 +12,8 @@ and did not satisfy me so I implemented it from scatch using the
 design by Simples Consultoria as a base.
 I am aware that the theme as is is probably only of use in a star treck
 fan site, but it demonstrates some css solutions that can be applied for
-other designs too.
+other designs too. So if you like rounded corners and a *flat* layout
+give it a try.
 
 
 .. _LCARS: http://en.wikipedia.org/wiki/LCARS
